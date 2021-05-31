@@ -1,6 +1,6 @@
 *** Test Cases ***
 test case 01
-    log    test11
+    log    test1
     
 test case 02
     log    test2
